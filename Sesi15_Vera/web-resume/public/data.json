@@ -1,0 +1,37 @@
+[
+    {
+        "img": "https://www.linkpicture.com/q/portfolio-1.jpg",
+        "info": "Fetch Data",
+        "type": "WEB",
+        "detail":"#exampleModal1",
+        "link": "https://testing-vera.netlify.app"
+    },
+    {
+        "img": "https://www.linkpicture.com/q/portfolio-2.jpg",
+        "info": "Clone Kode.id",
+        "type": "WEB",
+        "detail":"#exampleModal2",
+        "link": "https://kodeid-clone.netlify.app/"
+    },
+    {
+        "img": "https://www.linkpicture.com/q/portfolio-3_1.jpg",
+        "info": "FIFO System",
+        "type": "WEB",
+        "detail":"#exampleModal3",
+        "link": "https://systemfifo.netlify.app"
+    },
+    {
+        "img": "https://www.linkpicture.com/q/img4_1.jpg",
+        "info": "Pendataan Nilai Siswa",
+        "type": "WEB",
+        "detail":"#exampleModal4",
+        "link": "https://teavlappy.000webhostapp.com/"
+    },
+    {
+        "img": "https://www.linkpicture.com/q/img-5.jpg",
+        "info": "Kanban Board",
+        "type": "WEB",
+        "detail":"#exampleModal5",
+        "link": "https://kanban-board-vera.netlify.app"
+    }
+]
